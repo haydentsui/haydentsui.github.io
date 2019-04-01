@@ -4,9 +4,9 @@
     "label": "Student",
     "picture": "/images/0.jpeg",
     "email": "me@haydentsui.ca",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "647-287-6188",
+    "website": "https://haydentsui.github.io",
+    "summary": "I am a Mechatronics Engineering student at the University of Waterloo, set to graduate in 2019. I have a focus on electrical engineering, and have done multiple internships at companies such as Apple and Facebook.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "haydentsui",
+        "url": "http://github.com/haydentsui"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "haydentsui.ca",
         "url": "http://linkedin.com/in/changeme"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/haydentsuii"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/haydentsui"
       }
     ]
   },
