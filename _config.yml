@@ -69,10 +69,9 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
-
+author: Hayden Tsui
 # Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author_email: me@haydentsui.ca
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
