@@ -1,220 +1,13 @@
 {
-  "Thailand '19": [
+  "New York City '19": [],
+  "Alaska '19": [
     {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-6-5.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-6-5.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-6-5.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-4-10.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-4-10.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-4-10.jpg"
-    },
-    {
-      "height": 1347,
-      "compressed_path": "./photos/Thailand '19/Image-17-2.min.jpg",
-      "width": 3070,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-17-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-17-2.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-15-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-15-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-15-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-11-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-11-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-11-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-2-4.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-2-4.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-2-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-13-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-13-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-13-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-25.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-25.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-25.jpg"
-    },
-    {
-      "height": 2703,
-      "compressed_path": "./photos/Thailand '19/Image-14-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-14-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-14-2.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-24.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-24.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-24.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-26.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-26.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-26.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-16-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-16-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-16-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-7-4.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-7-4.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-7-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-27.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-27.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-27.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-12-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-12-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-12-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-23.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-23.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-23.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-1-6.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-1-6.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-1-6.jpg"
-    },
-    {
-      "height": 3070,
-      "compressed_path": "./photos/Thailand '19/Image-3-4.min.jpg",
-      "width": 2156,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-3-4.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-3-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-22.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-22.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-22.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-10-3.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-10-3.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-10-3.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-21.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-21.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-21.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-5-10.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-5-10.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-5-10.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-18-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-18-2.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-18-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-9-4.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-9-4.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-9-4.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-20-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-20-1.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-20-1.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Thailand '19/Image-8-4.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-8-4.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-8-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Thailand '19/Image-19-1.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Thailand '19/Image-19-1.placeholder.jpg",
-      "path": "./photos/Thailand '19/Image-19-1.jpg"
+      "height": 1533,
+      "compressed_path": "./photos/Alaska '19/IMG_0196.min.jpg",
+      "width": 1225,
+      "compressed": true,
+      "placeholder_path": "./photos/Alaska '19/IMG_0196.placeholder.jpg",
+      "path": "./photos/Alaska '19/IMG_0196.jpg"
     }
   ],
   "Vietnam '19": [
@@ -222,7 +15,7 @@
       "height": 1932,
       "compressed_path": "./photos/Vietnam '19/Image-15-1.min.jpg",
       "width": 2576,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-15-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-15-1.jpg"
     },
@@ -230,39 +23,23 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-6-4.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-6-4.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-6-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Vietnam '19/Image-17-1.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Vietnam '19/Image-17-1.placeholder.jpg",
-      "path": "./photos/Vietnam '19/Image-17-1.jpg"
     },
     {
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-2-3.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-2-3.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-2-3.jpg"
-    },
-    {
-      "height": 3024,
-      "compressed_path": "./photos/Vietnam '19/Image-13-1.min.jpg",
-      "width": 2268,
-      "compressed": false,
-      "placeholder_path": "./photos/Vietnam '19/Image-13-1.placeholder.jpg",
-      "path": "./photos/Vietnam '19/Image-13-1.jpg"
     },
     {
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-11-1.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-11-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-11-1.jpg"
     },
@@ -270,7 +47,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-3-3.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-3-3.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-3-3.jpg"
     },
@@ -278,7 +55,7 @@
       "height": 1932,
       "compressed_path": "./photos/Vietnam '19/Image-16-1.min.jpg",
       "width": 2576,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-16-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-16-1.jpg"
     },
@@ -286,7 +63,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-14-1.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-14-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-14-1.jpg"
     },
@@ -294,7 +71,7 @@
       "height": 3071,
       "compressed_path": "./photos/Vietnam '19/Image-12-1.min.jpg",
       "width": 1976,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-12-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-12-1.jpg"
     },
@@ -302,7 +79,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-7-3.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-7-3.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-7-3.jpg"
     },
@@ -310,7 +87,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-1-5.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-1-5.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-1-5.jpg"
     },
@@ -318,7 +95,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-10-2.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-10-2.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-10-2.jpg"
     },
@@ -326,7 +103,7 @@
       "height": 1932,
       "compressed_path": "./photos/Vietnam '19/Image-9-3.min.jpg",
       "width": 2576,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-9-3.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-9-3.jpg"
     },
@@ -334,7 +111,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-18-1.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-18-1.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-18-1.jpg"
     },
@@ -342,7 +119,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-5-9.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-5-9.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-5-9.jpg"
     },
@@ -350,7 +127,7 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-8-3.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-8-3.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-8-3.jpg"
     },
@@ -358,179 +135,9 @@
       "height": 3072,
       "compressed_path": "./photos/Vietnam '19/Image-4-9.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Vietnam '19/Image-4-9.placeholder.jpg",
       "path": "./photos/Vietnam '19/Image-4-9.jpg"
-    }
-  ],
-  "Korea '19": [
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-2-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-2-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-2-2.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Korea '19/Image-6-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-6-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-6-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-19.min.jpg",
-      "width": 2187,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-19.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-19.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-3-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-3-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-3-2.jpg"
-    },
-    {
-      "height": 957,
-      "compressed_path": "./photos/Korea '19/Image-18.min.jpg",
-      "width": 768,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-18.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-18.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-1-3.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-1-3.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-1-3.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-10-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-10-1.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-10-1.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-5-3.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-5-3.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-5-3.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-20.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-20.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-20.jpg"
-    },
-    {
-      "height": 1820,
-      "compressed_path": "./photos/Korea '19/Image-1-4.min.jpg",
-      "width": 1024,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-1-4.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-1-4.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Korea '19/Image-7-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-7-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-7-2.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Korea '19/Image-11.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-11.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-11.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-13.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-13.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-13.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Korea '19/Image-9-2.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-9-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-9-2.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Korea '19/Image-12.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-12.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-12.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-16.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-16.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-16.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-17.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-17.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-17.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-15.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-15.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-15.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-14.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-14.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-14.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-8-2.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-8-2.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-8-2.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Korea '19/Image-4-8.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Korea '19/Image-4-8.placeholder.jpg",
-      "path": "./photos/Korea '19/Image-4-8.jpg"
     }
   ],
   "Japan '19": [
@@ -538,7 +145,7 @@
       "height": 3072,
       "compressed_path": "./photos/Japan '19/Image-2-1.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-2-1.placeholder.jpg",
       "path": "./photos/Japan '19/Image-2-1.jpg"
     },
@@ -546,31 +153,15 @@
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-9.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-9.placeholder.jpg",
       "path": "./photos/Japan '19/Image-9.jpg"
-    },
-    {
-      "height": 2304,
-      "compressed_path": "./photos/Japan '19/Image-8.min.jpg",
-      "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-8.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-8.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-4-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-4-1.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-4-1.jpg"
     },
     {
       "height": 3072,
       "compressed_path": "./photos/Japan '19/Image-6-1.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-6-1.placeholder.jpg",
       "path": "./photos/Japan '19/Image-6-1.jpg"
     },
@@ -578,23 +169,15 @@
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-1-1.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-1-1.placeholder.jpg",
       "path": "./photos/Japan '19/Image-1-1.jpg"
     },
     {
       "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-3-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-3-1.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-3-1.jpg"
-    },
-    {
-      "height": 3072,
       "compressed_path": "./photos/Japan '19/Image-1-2.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-1-2.placeholder.jpg",
       "path": "./photos/Japan '19/Image-1-2.jpg"
     },
@@ -602,7 +185,7 @@
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-7-1.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-7-1.placeholder.jpg",
       "path": "./photos/Japan '19/Image-7-1.jpg"
     },
@@ -610,7 +193,7 @@
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-5-1.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-5-1.placeholder.jpg",
       "path": "./photos/Japan '19/Image-5-1.jpg"
     },
@@ -618,81 +201,293 @@
       "height": 3072,
       "compressed_path": "./photos/Japan '19/Image-10.min.jpg",
       "width": 2304,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-10.placeholder.jpg",
       "path": "./photos/Japan '19/Image-10.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-9-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-9-1.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-9-1.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-1.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-1.jpg"
     },
     {
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-3.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-3.placeholder.jpg",
       "path": "./photos/Japan '19/Image-3.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-8-1.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-8-1.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-8-1.jpg"
     },
     {
       "height": 2304,
       "compressed_path": "./photos/Japan '19/Image-2.min.jpg",
       "width": 3072,
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Japan '19/Image-2.placeholder.jpg",
       "path": "./photos/Japan '19/Image-2.jpg"
-    },
+    }
+  ],
+  "Thailand '19": [
     {
       "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-6.min.jpg",
+      "compressed_path": "./photos/Thailand '19/Image-6-5.min.jpg",
       "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-6.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-6.jpg"
-    },
-    {
-      "height": 3072,
-      "compressed_path": "./photos/Japan '19/Image-7.min.jpg",
-      "width": 2304,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-7.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-7.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-6-5.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-6-5.jpg"
     },
     {
       "height": 2304,
-      "compressed_path": "./photos/Japan '19/Image-5.min.jpg",
+      "compressed_path": "./photos/Thailand '19/Image-4-10.min.jpg",
       "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-5.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-5.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-4-10.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-4-10.jpg"
+    },
+    {
+      "height": 1347,
+      "compressed_path": "./photos/Thailand '19/Image-17-2.min.jpg",
+      "width": 3070,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-17-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-17-2.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-11-2.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-11-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-11-2.jpg"
     },
     {
       "height": 2304,
-      "compressed_path": "./photos/Japan '19/Image-4.min.jpg",
+      "compressed_path": "./photos/Thailand '19/Image-13-2.min.jpg",
       "width": 3072,
-      "compressed": false,
-      "placeholder_path": "./photos/Japan '19/Image-4.placeholder.jpg",
-      "path": "./photos/Japan '19/Image-4.jpg"
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-13-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-13-2.jpg"
+    },
+    {
+      "height": 2703,
+      "compressed_path": "./photos/Thailand '19/Image-14-2.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-14-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-14-2.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-26.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-26.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-26.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-16-2.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-16-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-16-2.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-27.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-27.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-27.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-12-2.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-12-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-12-2.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-1-6.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-1-6.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-1-6.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-10-3.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-10-3.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-10-3.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-21.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-21.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-21.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Thailand '19/Image-5-10.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-5-10.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-5-10.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-18-2.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-18-2.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-18-2.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-9-4.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-9-4.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-9-4.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-20-1.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-20-1.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-20-1.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Thailand '19/Image-8-4.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Thailand '19/Image-8-4.placeholder.jpg",
+      "path": "./photos/Thailand '19/Image-8-4.jpg"
+    }
+  ],
+  "Korea '19": [
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-2-2.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-2-2.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-2-2.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Korea '19/Image-6-2.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-6-2.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-6-2.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-19.min.jpg",
+      "width": 2187,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-19.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-19.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-3-2.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-3-2.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-3-2.jpg"
+    },
+    {
+      "height": 957,
+      "compressed_path": "./photos/Korea '19/Image-18.min.jpg",
+      "width": 768,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-18.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-18.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-1-3.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-1-3.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-1-3.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-5-3.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-5-3.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-5-3.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-20.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-20.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-20.jpg"
+    },
+    {
+      "height": 1820,
+      "compressed_path": "./photos/Korea '19/Image-1-4.min.jpg",
+      "width": 1024,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-1-4.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-1-4.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Korea '19/Image-7-2.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-7-2.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-7-2.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Korea '19/Image-11.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-11.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-11.jpg"
+    },
+    {
+      "height": 2304,
+      "compressed_path": "./photos/Korea '19/Image-9-2.min.jpg",
+      "width": 3072,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-9-2.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-9-2.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-16.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-16.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-16.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-15.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-15.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-15.jpg"
+    },
+    {
+      "height": 3072,
+      "compressed_path": "./photos/Korea '19/Image-4-8.min.jpg",
+      "width": 2304,
+      "compressed": true,
+      "placeholder_path": "./photos/Korea '19/Image-4-8.placeholder.jpg",
+      "path": "./photos/Korea '19/Image-4-8.jpg"
     }
   ]
 }
